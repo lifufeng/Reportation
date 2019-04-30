@@ -1,4 +1,4 @@
-# Prerequisites
+﻿# Prerequisites
 *.d
 
 # Compiled Object files
@@ -6,6 +6,7 @@
 *.lo
 *.o
 *.obj
+*.log
 
 # Precompiled Headers
 *.gch
@@ -30,3 +31,25 @@
 *.exe
 *.out
 *.app
+
+
+# *.CSV
+# *.TXT
+*.XLSX
+
+*.suo
+*.sdf
+*.opensdf
+*.user
+**/.vs
+**/.svn
+**/x64
+**/Debug
+**/Release
+*.VC.db
+*.VC.VC.opendb
+*.sdf
+*.opensdf
+*.MODEL
+*.csv
+*.~$lock
